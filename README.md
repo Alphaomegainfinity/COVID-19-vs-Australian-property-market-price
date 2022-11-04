@@ -66,9 +66,6 @@
     Datetime
         
 
-### project-one
-Group project for Data Analytics boot camp.
-
 The Resources folder in this repo contains all the source data required. The bulk of the analysis is run in main.ipynb as a jupyter notebook.
 Make sure all cells are run sequentially - some variables are modified orr updated in certain cells, which can cause issues if not run in order.
 
