@@ -55,6 +55,15 @@
         
     
  Please note for all relevant plots please see attached presentation or output folder in GITHUB repo.
+ 
+### Technologies Used:
+    Jupyter Notebook
+    Pandas
+    Google API
+    Scipy
+    Numpy
+    Matplotlib
+    Datetime
         
 
 ### project-one
